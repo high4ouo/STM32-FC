@@ -1,2 +1,2 @@
-# STM32-FC-Project
+# STM32-FC
 UAV
